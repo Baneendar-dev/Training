@@ -1,0 +1,9 @@
+{
+    "ID": 1234,
+    "organisation": "BLR",
+    "destination": "DEL",
+    "price": 5000,
+    "department": "2024-06-15",
+    "airlines": "IndianAir",
+    "discount": 10
+}
